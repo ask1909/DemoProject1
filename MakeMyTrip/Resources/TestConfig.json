@@ -1,0 +1,7 @@
+{
+  "url" : "https://www.makemytrip.com/hotels",
+  "city" : "Amboli",
+  "invalid_city" : "---&#!",
+  "template_path" : "../Resources/mmt_report_template.html",
+  "output" : "../Reports/"
+}
